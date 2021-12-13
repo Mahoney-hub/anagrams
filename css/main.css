@@ -61,6 +61,10 @@ input:focus {
     font-family: cursive;
 }
 
+.info-item{
+    display: none;
+}
+
 .active {
     display: block;
 }
